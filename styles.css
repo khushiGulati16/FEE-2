@@ -1,0 +1,20 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blueviolet;
+}
+h2{
+    color: black;
+    margin-left: 20px;
+
+}
+.container{
+    width: 100%;
+    background-color: bisque;
+}
+.container-submit{
+    background-color: #007bff;
+    width: 100%;
+    color: beige;
+    border-radius: 5px;
+    text-align: center;
+}
